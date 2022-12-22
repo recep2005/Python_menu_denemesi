@@ -1,4 +1,4 @@
-#Netflix type system demo - FakeFlix
+#dene bakalım
 import csv
 import sys
 
